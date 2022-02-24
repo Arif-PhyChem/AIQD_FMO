@@ -17,7 +17,9 @@
 
 6) 	use train_CNN.py to train the CNN model
 
-7)	Run run_dyn.py to predict EET dynamics for test trajectories. We have already provided our trained model "trained_ML_model.hdf5".
-	The respective parameters of test trajectories are in temperature.npy, gamma.npy, initial_site.npy and lambda.npy. 
+7)	Run run_dyn.py to predict EET dynamics for test trajectories. We have provided a trained model "trained_ML_model.hdf5" at
+	10.6084/m9.figshare.16922446 (file size exceeds 25MB, GitHub limit)
+
+10)	The respective parameters of test trajectories are in temperature.npy, gamma.npy, initial_site.npy and lambda.npy. 
 
 8) 	The search_optim_eet.py predict population of site-3 for different combinations of gamma, lambda and temperature. 

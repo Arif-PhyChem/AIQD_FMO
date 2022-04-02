@@ -22,4 +22,4 @@
 
 10)	The respective parameters of test trajectories are in temperature.npy, gamma.npy, initial_site.npy and lambda.npy. 
 
-8) 	The search_optim_eet.py predict population of site-3 for different combinations of gamma, lambda and temperature. 
+8) 	The search_optim_eet.py predict population of site-3 at t=0.5ps for different combinations of gamma, lambda and temperature. 

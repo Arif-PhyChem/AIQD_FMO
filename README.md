@@ -6,7 +6,7 @@
 	however you can download quantum_HEOM package from https://github.com/jwa7/quantum_HEOM, 
 	and generate the training data. We provide the script LTLME.py
 
-2)	The farthes_point.py samples the trajectories based on farthest point sampling 
+2)	The farthest_point.py samples the trajectories based on farthest point sampling 
 	(we just need to do it for one case, initial exciation on site-1 or site-6)
 
 3)	We choose 500 trajectories for site-1 and 500 trajectories from site-6, in total 1000 trajectories as a training set

@@ -1,6 +1,6 @@
 # Script for data generation and Code for our article in Nature Communications
 # "Predicting the future of excitation energy transfer in light-harvesting complex with artificial intelligence-based quantum dynamics"
-#  https://www.nature.com/articles/s41467-022-29621-w
+ https://www.nature.com/articles/s41467-022-29621-w
 
 1) 	Because of the large size of training data, we couldn't uplaod it here, 
 	however you can download quantum_HEOM package from https://github.com/jwa7/quantum_HEOM, 

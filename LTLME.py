@@ -125,7 +125,7 @@ for initial_state in states:
                 'interaction_model': 'FMO',
                 'dynamics_model': 'local thermalising lindblad',
                 'timesteps': timesteps,
-                'cutoff_freq': util.unit_conversion(cutoff_freq, 'fs rad^-1', 'rad ps^-1'),
+                'cutoff_freq': util.unit_conversion(cutoff_freq, 'cm^-1', 'rad ps^-1'),
                 'reorg_energy': util.unit_conversion(reorg_energy, 'cm^-1', 'rad ps^-1'),
                 'temperature': temperature,
                 'deph_rate': 11,
